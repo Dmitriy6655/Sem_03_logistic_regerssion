@@ -1,1 +1,1 @@
-# Sem_03_logistic_regerssion
+# Sem_03_lin_regerssion
